@@ -1,16 +1,31 @@
-## Hi there 👋
+## Hi there 👋  
 
-<!--
-**afraAntara/afraAntara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am **Afra**, a **Data Scientist** at **UBC** with a background in **Technical Product Management**.  
+I'm passionate about solving problems with **Machine Learning** and designing **intelligent products**.  
+My expertise lies in **time-series forecasting** for **industrial applications**.  
 
-Here are some ideas to get you started:
+### 🔭 I’m currently working on:
+- Developing **ML-powered forecasting models** for **energy and industrial applications**  
+- Optimizing **deep learning architectures** for time-series prediction  
+- Exploring **scalable AI solutions** on **AWS & distributed computing**   
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Projects I worked on:
+## ML and DS Projects 🛠️
+
+- 🌍 [Automated HR Recruitement System using Blockchain and Supervised Machine Learning](https://github.com/afraAntara/HRM-Recruitment-System)
+- 📉 [Hybrid Runge-Kutta RNN model for sparse datasets](https://github.com/afraAntara/Runge-Kutta-RNN)
+- 
+## NLP and LLM Projects 
+
+- 🪻 [Semantic Book Recommender](https://github.com/afraAntara/Semantic_Book_Recommender)
+
+## Computer Vision Projects 📊
+
+- 📈 [Image Content Aware Resize](https://github.com/afraAntara/Image-Content-Aware-Resize)
+- 🧠 [Emotion Recognition System](https://github.com/afraAntara/Emotion-Recognition-System)
+- 🐶 [Finger-Counter-using-Live-Video](https://github.com/afraAntara/Finger-Counter-using-openCV)
+
+### 🌱 I’m currently learning:
+- **Generative AI** and **Foundation Models (LLMs, RAG, Transformers)**  
+- **MLOps & Deployment** (CI/CD, Kubernetes, Docker)  
+- **Advanced system design for AI-driven applications** 
