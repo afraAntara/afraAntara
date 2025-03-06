@@ -12,13 +12,13 @@ My expertise lies in **time-series forecasting** for **industrial applications**
 ### 🚀 Projects I worked on:
 ## ML and DS Projects 🛠️
 
-- 🌍 [Automated HR Recruitement System using Blockchain and Supervised Machine Learning](https://github.com/afraAntara/HRM-Recruitment-System)
+- 🌍 [Automated HR Recruitement System using Blockchain and Supervised Machine Learning](https://github.com/afraAntara/HRM-Recruitment-System](https://github.com/afraAntara/GAN-BoMaCNeT)
 - 📉 [Hybrid Runge-Kutta RNN model for sparse datasets](https://github.com/afraAntara/Runge-Kutta-RNN)
 - 
-## NLP and LLM Projects 
+## NLP, LLM and GAN Projects 
 
 - 🪻 [Semantic Book Recommender](https://github.com/afraAntara/Semantic_Book_Recommender)
-
+- 🧠 [Improved bone marrow classification model using synthetic images generated using DCGAN](https://github.com/afraAntara/Semantic_Book_Recommender)
 ## Computer Vision Projects 📊
 
 - 📈 [Image Content Aware Resize](https://github.com/afraAntara/Image-Content-Aware-Resize)
