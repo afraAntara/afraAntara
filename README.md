@@ -25,6 +25,9 @@ My expertise lies in **time-series forecasting** for **industrial applications**
 - 🧠 [Emotion Recognition System](https://github.com/afraAntara/Emotion-Recognition-System)
 - 🐶 [Finger-Counter-using-Live-Video](https://github.com/afraAntara/Finger-Counter-using-openCV)
 
+## Numerical Optimization Projects
+- 📈 [Portfolio Optimization Using Different Solvers]([https://github.com/afraAntara/Image-Content-Aware-Resize](https://github.com/afraAntara/Portfolio_Optimization)
+
 ### 🌱 I’m currently learning:
 - **Generative AI** and **Foundation Models (LLMs, RAG, Transformers)**  
 - **MLOps & Deployment** (CI/CD, Kubernetes, Docker)  
