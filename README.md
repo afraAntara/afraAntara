@@ -14,7 +14,7 @@ My expertise lies in **time-series forecasting** for **industrial applications**
 
 - 🌍 [Automated HR Recruitement System using Blockchain and Supervised Machine Learning](https://github.com/afraAntara/HRM-Recruitment-System)
 - 📉 [Hybrid Runge-Kutta RNN model for sparse datasets](https://github.com/afraAntara/Runge-Kutta-RNN)
-- 
+- 📈 [Credit Risk Analysis, Prediction and Explainability using Ensemble Learning Models](https://github.com/afraAntara/Credit-Risk-Analysis-Prediction-and-Explainability)
 ## NLP, LLM and GAN Projects 
 
 - 🪻 [Semantic Book Recommender](https://github.com/afraAntara/Semantic_Book_Recommender)
